@@ -37,4 +37,6 @@ h4{
 }
 .card{
     border-radius: 10%;
+    height:calc(100vh / 1.9) ;
+
 }
