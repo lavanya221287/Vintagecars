@@ -1,0 +1,40 @@
+form{
+    background-color: aqua;
+
+}
+.form-group{
+    padding-left: 10px;
+}
+
+h1{
+    font-family:serif;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+
+h3{
+    padding-top: 20px;
+}
+.contact{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.footer{
+    text-align-last:center;
+}
+body{
+    border: 2px solid black;
+
+}
+
+h4{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.link{
+    text-align: right;
+}
+.card{
+    border-radius: 10%;
+}
